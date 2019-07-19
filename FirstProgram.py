@@ -16,3 +16,5 @@ for index in range(25):
     o += 25
     print("the value of the variable o is {0}".format(o))
 
+
+
