@@ -11,10 +11,18 @@ print(food_names)
 for name in food_names:
     print("Food name is {0}".format(name))
 
-o = 5
-for index in range(25):
+o = 0
+for index in range(4):
     o += 25
     print("the value of the variable o is {0}".format(o))
 
+name= "Aarya"
+age= "14"
+print("Hi, my name is {0}. I am {1} years old.".format(name, age))
 
+import random
+for x in range(1):
+  print(random.randint(1,101))
+
+  
 
